@@ -1,0 +1,20 @@
+Summary:
+A Company is making agreement with contractor who is working in same domain that is Computer consulting services.
+Company is demanding some stuff related to its clients from contractor.The company wants from
+contractor that contractor must have sufficient resources available with him so that he can easily
+accomodate requests of Clients.
+				They are signing a Contract for 12 Months on initial basis but it can be 
+extended or forced. In the mean time company is constraining contractor to do not obtain any type of
+confidential information regarding to relationship with its clients, just because the information can benefit
+the Company's competitiors.
+
+
+Terms & Conditions:
+1) Contractor is solely responsible for undertaking any action required by client. It's his own responsibility 
+to provide client what he wants.
+
+2) The intial period of contract is 12 months but it can be foreced month to month that is, extended.
+3) Contractor shall invoice on monthly basis or hourly basis.
+4) Any party can terminate this contract by giving one month notice, nut if both parties are ready to terminate then they can
+terminate at any time.
+5)
