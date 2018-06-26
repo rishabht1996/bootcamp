@@ -1,0 +1,22 @@
+			Zoomcar
+
+1) Cash on Delivery:
+			The main feature the zoomcar missing is paying money while recieving the car. Suppose someone is having 
+			cash at that time then what will he do.
+
+2) Tariff Calculation:
+			The tariff calculator is not showing amount you need to pay. But if you want to check first you have to
+			login and then only you can proceed to check the tariff.
+
+3) Current Condition of Car:
+			The current condition of car must be shown and described so that user can check any other unavailable car
+			prior to booking.
+
+4) Profile Verification:
+			Profile verification is time taking process. To verify they can use database of UIDAI.
+
+5) FAQ's are missing:
+			Some general questions answer are missing.
+
+6) Major Wallets are missing:
+			They must introduce some more wallets like PhonePe,mobikwik,etc
